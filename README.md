@@ -36,6 +36,7 @@
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 
 ### 🚌 Top Langs & Algorithm
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1117mg&layout=compact)](https://github.com/1117mg/github-readme-stats)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=1117mg)](https://solved.ac/profile/1117mg)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1117mg&layout=donut-vertical)](https://github.com/1117mg/github-readme-stats)
