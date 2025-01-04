@@ -21,9 +21,6 @@ A developer who thinks, researches, creates, and connects to practical realizati
   [![Tistory's Badge](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Notion&logoColor=white&link=https://1117mg.tistory.com/)](https://1117mg.tistory.com/)
 
 
-![Yelim's GitHub stats](https://github-readme-stats.vercel.app/api?username=1117mg&show_icons=true&theme=radical)
-
-
 🏅 Algorithm Silver Level. 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=1117mg)](https://solved.ac/profile/1117mg) 
