@@ -16,9 +16,11 @@ A developer who thinks, researches, creates, and connects to practical realizati
 
 🐱 About Me
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dkdldb9867@gmail.com)](dkdldb9867@gmail.com)
   [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://tide-griffin-f66.notion.site/Yelim-Lee-833b72c0c1524a8a93ff07c53266784b)](https://tide-griffin-f66.notion.site/Yelim-Lee-833b72c0c1524a8a93ff07c53266784b)
   [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@1117mg)](https://velog.io/@1117mg)
+  [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://1117mg.tistory.com/)
+
+
 
 
 🏅 Algorithm Silver Level. 
