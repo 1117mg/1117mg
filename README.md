@@ -36,7 +36,7 @@ A developer who thinks, researches, creates, and connects to practical realizati
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1117mg&layout=compact)
 
-#### 📍 Git Status 📍
+#### 📍 Footprints 📍
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1117mg&show_icons=true&hide_rank=true&theme=dracula)
 
