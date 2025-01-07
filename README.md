@@ -8,7 +8,7 @@ A developer who thinks, researches, creates, and connects to practical realizati
 
 <br>
 
-#### 🐱 About Me
+#### 🐱 About Me 🐱
 
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://tide-griffin-f66.notion.site/Yelim-Lee-833b72c0c1524a8a93ff07c53266784b)](https://tide-griffin-f66.notion.site/Yelim-Lee-833b72c0c1524a8a93ff07c53266784b)
 
