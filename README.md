@@ -38,7 +38,7 @@ A developer who thinks, researches, creates, and connects to practical realizati
 
 ### Git Status
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1117mg&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1117mg&show_icons=true&hide_rank=true&theme=dracula)
 
 
 #### 📍 My Hits 📍
