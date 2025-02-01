@@ -10,7 +10,7 @@ A developer who thinks, researches, creates, and connects to practical realizati
 
 #### 🐱 About Me 🐱
 
-[![Notion Badge](https://img.shields.io/badge/Resume-000000?style=flat-square&link=[https://tide-griffin-f66.notion.site/Yelim-Lee-833b72c0c1524a8a93ff07c53266784b](https://www.rallit.com/resumes/1324167@paul/%EC%9D%B4%EC%98%88%EB%A6%BC))]
+[![Rallit Badge](https://img.shields.io/badge/Resume-000000?style=flat-square&link=https://www.rallit.com/resumes/1324167@paul/%EC%9D%B4%EC%98%88%EB%A6%BC)](https://www.rallit.com/resumes/1324167@paul/%EC%9D%B4%EC%98%88%EB%A6%BC)
 
 #### 🛠️ Stacks 🛠️
 
