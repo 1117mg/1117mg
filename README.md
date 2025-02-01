@@ -10,7 +10,7 @@ A developer who thinks, researches, creates, and connects to practical realizati
 
 #### 🐱 About Me 🐱
 
-[![Rallit Badge](https://img.shields.io/badge/Resume-000000?style=flat-square&link=https://www.rallit.com/resumes/1324167@paul/%EC%9D%B4%EC%98%88%EB%A6%BC)](https://www.rallit.com/resumes/1324167@paul/%EC%9D%B4%EC%98%88%EB%A6%BC)
+[![Rallit Badge](https://img.shields.io/badge/AboutMe-3DDC84?style=flat-square&link=https://www.rallit.com/resumes/1324167@paul/%EC%9D%B4%EC%98%88%EB%A6%BC)](https://www.rallit.com/resumes/1324167@paul/%EC%9D%B4%EC%98%88%EB%A6%BC)
 
 #### 🛠️ Stacks 🛠️
 
@@ -19,12 +19,6 @@ A developer who thinks, researches, creates, and connects to practical realizati
 #### 💪🏼 Tools 💪🏼
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/linux-FCC624.svg?&style=flat-square&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/aws-232F3E.svg?&style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/eclipse-2C2255.svg?&style=flat-square&logo=eclipseide&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/slack-4A154B.svg?&style=flat-square&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/notion-000000.svg?&style=flat-square&logo=notion&logoColor=white"/> 
-
-
-#### 🐱 Blog 🐱
-
-  [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@1117mg)](https://velog.io/@1117mg)
-  [![Tistory's Badge](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Notion&logoColor=white&link=https://1117mg.tistory.com/)](https://1117mg.tistory.com/)
 
 
 #### 🏅 Algorithm Silver Level. 🏅
