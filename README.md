@@ -3,8 +3,8 @@
 ### Hi Welcome, i'm YELIM LEE 👋
 
 #### Backend Developer / Software Engineer
-Developers who create beneficial social values   
-A developer who thinks, researches, creates, and connects to practical realization by web
+Building scalable systems that create real social value
+A backend developer who thinks deeply, builds reliably, and connects ideas to functional services through code
 
 <br>
 
