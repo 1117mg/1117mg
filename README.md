@@ -26,12 +26,10 @@ A backend developer who thinks deeply, builds reliably, and connects ideas to fu
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=1117mg)](https://solved.ac/profile/1117mg) 
 
 
-#### 🚌 Top Langs 🚌
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1117mg&layout=compact)
-
 #### 📍 Footprints 📍
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1117mg&show_icons=true&hide_rank=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=1117mg&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1117mg&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 </div>
