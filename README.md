@@ -60,4 +60,6 @@ A backend developer who thinks deeply, builds reliably, and connects ideas to fu
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1117mg&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1117mg&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/1117mg/1117mg&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&title=visits&edge_flat=false)
+
 </div>
