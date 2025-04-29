@@ -49,12 +49,6 @@ A backend developer who thinks deeply, builds reliably, and connects ideas to fu
 
 ---
 
-### 🏅 Algorithm Level
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=1117mg)](https://solved.ac/profile/1117mg)
-
----
-
 ### 📍 Footprints
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1117mg&theme=dark&show_icons=true&hide_border=true&count_private=true)
