@@ -8,12 +8,6 @@ A backend developer who thinks deeply, builds reliably, and connects ideas to fu
 
 ---
 
-### 🐱 About Me
-
-[![Rallit Badge](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white&link=https://www.rallit.com/resumes/1324167@paul/%EC%9D%B4%EC%98%88%EB%A6%BC)](https://www.rallit.com/resumes/1324167@paul/%EC%9D%B4%EC%98%88%EB%A6%BC)
-
----
-
 ### 🛠️ Tech Stack
 
 #### 💻 Backend  
