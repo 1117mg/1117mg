@@ -1,6 +1,6 @@
 <div align="left">
 
-## 👋 Hi Welcome, I'm YELIM LEE 
+## 👋 Hi Welcome, I'm YELIM LEE
 
 ### 🧑‍💻 Backend Developer / Software Engineer
 Building scalable systems that create real social value.  
