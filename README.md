@@ -3,6 +3,7 @@
 ## 👋 Hi Welcome, I'm YELIM LEE
 
 ### 🧑‍💻 Backend Developer / Software Engineer
+---
 
 ### 🛠️ Tech Stack
 
