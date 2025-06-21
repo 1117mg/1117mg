@@ -3,10 +3,6 @@
 ## 👋 Hi Welcome, I'm YELIM LEE
 
 ### 🧑‍💻 Backend Developer / Software Engineer
-Building scalable systems that create real social value.  
-A backend developer who thinks deeply, builds reliably, and connects ideas to functional services through code.
-
----
 
 ### 🛠️ Tech Stack
 
