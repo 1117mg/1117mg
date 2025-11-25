@@ -37,7 +37,6 @@
 
 ### 📍 Footprints
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1117mg&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1117mg&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=1117mg&color=blue)
