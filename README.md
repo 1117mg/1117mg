@@ -37,6 +37,8 @@
 
 ### 📍 Footprints
 
+[![Git Ranker](https://www.git-ranker.com/api/v1/badges/U_kgDOCHnpUA)](https://www.git-ranker.com/users/1117mg)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1117mg&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=1117mg&color=blue)
